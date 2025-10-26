@@ -1,0 +1,70 @@
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log/OS Files
+*.log
+
+# Android Studio generated files and folders
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+
+# IntelliJ
+*.iml
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (e.g. APIs or Firebase)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+/apk
+/bin
+
+# Eclipse 프로젝트 파일
+.classpath
+.project
+.settings/
+
+# Android 빌드 결과물
+gen/
+out/
+proguard/
+
+# 라이브러리 (외부 의존성)
+libs/
+
+# 리소스 빌드 결과물
+Resources/
+
+# 안드로이드 런처 아이콘 웹 버전
+ic_launcher-web.png
+
+# SHA 체크섬 파일
+sha5.txt
+
+# Lint 설정 (프로젝트별로 다를 수 있음)
+lint.xml
+
+# ProGuard 설정 (기본 템플릿)
+proguard-project.txt
+
+bin/
+sions-json/sions-json.jar
+sions-json/sions.json-1.0.0.jar
+sions-json/src.zip
+res
